@@ -149,3 +149,11 @@ This project is for educational and research purposes only. Not intended for pro
 ⭐ Contribute / Support
 
 If you found this helpful, star ⭐ the repo or contribute via pull requests!
+
+
+📂 Other Relevant Projects (code currently being migrated from local development)
+
+- **Emergency Vehicle Dispatch System** – Python + DSA-based dynamic routing algorithm.
+- **Flight Booking Automation System** – Web-based system with class-based architecture.
+- **GenAI Chatbot Prototype** – Built during hackathon; LLM-based query resolution using API integration.
+- **Full-Stack Wedding Album Website (Plooran)** – Lead frontend intern working on authentication, modular design, UI optimization, and SEO features.
